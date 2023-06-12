@@ -18,8 +18,8 @@ HSE course of big data processing algorithms
       3. Предсказать им тест сет и побить бейзлайн по целевым метрикам
     * Метрики.
       Поскольку просмотры распределены экспоненциально, предсказывать будем странную величину log(post_views + 100). Вычисляются      сразу 4 метрики, но они связаны между собой. Это
-      RMSPE - Root Mean Squared Percentage Error
-      MAPE - Mean Absolute Percentage Error
-      MAE - Mean Absolute Error
-      RMSE - Root Mean Squared Error
+      1. RMSPE - Root Mean Squared Percentage Error
+      2. MAPE - Mean Absolute Percentage Error
+      3. MAE - Mean Absolute Error
+      4. RMSE - Root Mean Squared Error
 
